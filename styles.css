@@ -14,6 +14,7 @@ body {
 .left-container {
     display: flex;
     min-height: 100vh;
+    
 }
 
 .img {
@@ -25,17 +26,18 @@ body {
 .right-container {
     display: flex;
     flex-direction: column;
-    width: 60vw;
 }
 
 .text {
-    background-color: blue;
+    width: 100%;
+    padding-bottom: 10em;
 }
 
 .form {
-    background-color: red;
+    width: 100%;
+    padding-bottom: 10em;
 }
 
 .account {
-    background-color: purple;
+    width: 100%;
 }
