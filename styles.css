@@ -25,18 +25,17 @@ body {
 .right-container {
     display: flex;
     flex-direction: column;
+    width: 60vw;
 }
 
 .text {
-    width: 100%;
-    padding-bottom: 10em;
+    background-color: blue;
 }
 
 .form {
-    width: 100%;
-    padding-bottom: 10em;
+    background-color: red;
 }
 
 .account {
-    width: 100%;
+    background-color: purple;
 }
